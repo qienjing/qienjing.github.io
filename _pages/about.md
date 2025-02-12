@@ -29,25 +29,15 @@ latest_posts:
 
 Welcome to my personal website! My name is Qien Jing, a senior student majoring in **plasma physics** at the University of Science and Technology of China (USTC). 
 
-Because of my strong interest in fusion energy, I decide to focus on the fusion simulation research including application of high performance computing and AI. 
-I firmly believe that plasma simulations can not only bridge experimental and theoretical research, but also integrate physics with advanced computational technology, allowing us to gain a more comprehensive perspective on research across the entire plasma physics field.
+Because of my strong interest in fusion energy, I decided to focus on the fusion simulation research including the application of high performance computing and AI. 
+I firmly believe that plasma simulations not only bridge experimental and theoretical research, but also integrate physics with advanced computational technology, allowing us to gain a more comprehensive perspective on research across the entire plasma physics field.
+
+My previous research was focused on the Synergistic Effect of Radial Electric Field (E_r) and Magnetic Shear on Ion Temperature Gradient (ITG) Mode, which based on the Experimental Advanced Superconducting Tokamak (EAST). Recently, I am working on the Lost Region Identification in Fast Ion Phase Space in the W7-X Stellarator.
 
 [](comment)
 
 {% raw %}
-test1
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-{% endraw %}
-
-{% raw %}
 <!--
-tset2
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
