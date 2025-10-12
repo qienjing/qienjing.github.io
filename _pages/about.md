@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>qien.jing.03@gmail.com</p>
     <p>qien.jing@polytechnique.edu</p>
-    <p>Master student of Physics, École polytechnique</p>
+    <p>École polytechnique, </p>
+    <p>Master student of Physics, </p>
     <p>Rte de Saclay, Palaiseau, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -35,7 +36,7 @@ I firmly believe that plasma simulations not only bridge experimental and theore
 
 My previous research was focused on the Synergistic Effect between Radial Electric Field (E_r) and Magnetic Shear on Ion Temperature Gradient (ITG) Mode, which based on the Experimental Advanced Superconducting Tokamak (EAST). Recently, I am working on the Lost Region Identification in Fast Ion Phase Space in the W7-X Stellarator.
 
-[](comment)
+
 
 {% raw %}
 <!--
