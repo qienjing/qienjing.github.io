@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first-author paper “[Synergistic effect between radial electric field and magnetic shear on ion temperature gradient mode]” has been published in *Nuclear Fusion*
+My first-author paper **"Synergistic effect between radial electric field and magnetic shear on ion temperature gradient mode"** has been published in *Nuclear Fusion*

@@ -24,9 +24,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 1 # leave blank to include all the blog posts
 ---
 
 Welcome to my personal website! I am Qien Jing (荆祺恩) and I got my Bachelor of Science degree from the **University of Science and Technology of China**, majoring in Applied Physics with a sub-major in Plasma Physics. I am currently pursuing a Master1 degree in Physics at **École Polytechnique**. 

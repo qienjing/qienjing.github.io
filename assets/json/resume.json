@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Qien jing(荆祺恩)",
-    "label": "Master Student in École polytechnique",
+    "Name": "Qien jing(荆祺恩)",
+    "Education": "Master Student in École polytechnique",
     "image": "",
-    "email1": "qien.jing@polytechnique.edu",
-    "email2": "qien.jing.03@gmail.com"
+    "Email1": "qien.jing@polytechnique.edu",
+    "Email2": "qien.jing.03@gmail.com"
     //"phone": "",
     //"url": "https://alshedivat.github.io/al-folio/",
     //"_summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -74,6 +74,60 @@
       //"courses": [
       //  "Theory of Relativity"
       //]
+    }
+  ],
+  "work": [
+    {
+      "name": "Supervisor: Prof. Huishan Cai (Department of Plasma Physics and Fusion Engineering, USTC)",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2023-07",
+      "endDate": "2025-07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Science and Technology of China, Hefei, Anhui, China",
+      "position": "Synergistic Effect between Radial Electric Field and Magnetic Shear on Ion Temperature Gradient Mode",
+      "url": "https://doi.org/10.1088/1741-4326/ae074f",
+      "startDate": "2023-11",
+      "endDate": "2024-11",
+      "summary": "Supervisor: Prof. Huishan Cai (Department of Plasma Physics and Fusion Engineering, USTC)",
+      "highlights": []
+    },
+    {
+      "name": "University of California, Irvine, CA, USA",
+      "position": "Lost Region Identification in Fast Ion Phase Space in W7-X Stellarator",
+      "url": "",
+      "startDate": "2024-07",
+      "endDate": "2024-12",
+      "summary": "Supervisor: Prof. Zhihong Lin (Department of Physics and Astronomy, UCI)",
+      "highlights": []
+    },
+    {
+      "name": "Aix-Marseille University, Marseille, France",
+      "position": "Gyrokinetic modelling of the nonlinear interaction between energetic particle-driven instabilities and microturbulence in tokamak plasmas",
+      "url": "",
+      "startDate": "2026-04",
+      "endDate": "Present",
+      "summary": "Supervisor: Prof. Guillaume Brochard (PIIM)",
+      "highlights": []
+    }
+  ],
+  "publications": [
+    {
+      "name": "Synergistic effect between radial electric field and magnetic shear on ITG mode",
+      "publisher": "Qien Jing et al. Nuclear Fusion 65, 106037 (2025)",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1088/1741-4326/ae074f",
+      "summary": ""
+    },
+    {
+      "name": "Lost region identification in the fast ion phase space on the W7-X stellarator",
+      "publisher": "Q. Jing, E. Green, X. Wei, H. Cai, Z. Lin (To be submitted)",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
     }
   ]
 //  "awards": [
