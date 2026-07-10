@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>École polytechnique </a>
+subtitle: <a href='#'>École polytechnique (Polytechnic Institute of Paris) </a>
 
 profile:
   align: right
@@ -34,7 +34,8 @@ Welcome to my personal website! I am Qien Jing (荆祺恩) and I got my Bachelor
 Because of my strong interest in fusion energy, I decided to focus on the fusion simulation research including the application of high performance computing and AI. 
 I firmly believe that plasma simulations not only bridge experimental and theoretical research, but also integrate physics with advanced computational technology, allowing us to gain a more comprehensive perspective on research across the entire plasma physics field.
 
-My previous research was focused on the Synergistic Effect between Radial Electric Field $(E_r)$ and Magnetic Shear on Ion Temperature Gradient (ITG) Mode, which based on the Experimental Advanced Superconducting Tokamak (EAST). Recently, I am working on the Lost Region Identification in Fast Ion Phase Space in the W7-X Stellarator.
+My previous research was focused on the Synergistic Effect between Radial Electric Field $(E_r)$ and Magnetic Shear on Ion Temperature Gradient (ITG) turbulence, which based on the Experimental Advanced Superconducting Tokamak (EAST). Recently, I am working with Prof. Guillaume Brochard at Aix Marseille Université about Gyrokinetic modelling of the nonlinear interaction between energetic particle-driven instabilities and microturbulence in tokamak plasmas.
+In the meantime, I am working on the Lost Region Identification in Fast Ion Phase Space and Self-Consistent $(E_r)$ in the W7-X Stellarator with Prof. Zhihong Lin.
 
 
 
