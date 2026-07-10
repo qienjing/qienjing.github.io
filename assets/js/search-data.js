@@ -386,7 +386,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{id: "news-my-first-author-paper-synergistic-effect-between-radial-electric-field-and-magnetic-shear-on-ion-temperature-gradient-mode-has-been-published-in-nuclear-fusion",
-          title: 'My first-author paper “[Synergistic effect between radial electric field and magnetic shear on...',
+          title: 'My first-author paper “Synergistic effect between radial electric field and magnetic shear on...',
           description: "",
           section: "News",},{id: "projects-project-10",
           title: 'project 10',
