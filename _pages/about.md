@@ -12,7 +12,7 @@ profile:
     <p>qien.jing.03@gmail.com</p>
     <p>qien.jing@polytechnique.edu</p>
     <p>École polytechnique, </p>
-    <p>Master student of Physics, </p>
+    <p>Master 1 student of Physics, </p>
     <p>Rte de Saclay, Palaiseau, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
