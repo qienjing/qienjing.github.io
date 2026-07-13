@@ -29,14 +29,19 @@ latest_posts:
   limit: 1 # leave blank to include all the blog posts
 ---
 
-**Welcome to my personal website!** I am Qien Jing (荆祺恩) and I got my Bachelor of Science degree from the **University of Science and Technology of China**, majoring in Applied Physics with a sub-major in Plasma Physics. I am currently pursuing a Master1 degree in Physics at **École Polytechnique**. 
+**Welcome to my personal website!** Feel free to contact me if you would like to discuss research or simply have a chat. 
 
-Because of my strong interest in fusion energy, I decided to focus on the fusion simulation research including the application of high performance computing and AI. 
+I am Qien Jing (荆祺恩) and I got my Bachelor of Science degree from the **University of Science and Technology of China**, majoring in Applied Physics with a sub-major in Plasma Physics. I am currently pursuing a Master1 degree in Physics at **École Polytechnique**. 
+
+Because of my strong interest in fusion energy, I decided to focus on the fusion simulation research. 
 I firmly believe that plasma simulations not only bridge experimental and theoretical research, but also integrate physics with advanced computational technology, allowing us to gain a more comprehensive perspective on research across the entire plasma physics field.
 
-My previous research was focused on the Synergistic Effect between Radial Electric Field $(E_r)$ and Magnetic Shear on Ion Temperature Gradient (ITG) turbulence, which based on the Experimental Advanced Superconducting Tokamak (EAST). Recently, I am working with Prof. Guillaume Brochard at Aix Marseille Université about Gyrokinetic modelling of the nonlinear interaction between energetic particle-driven instabilities and microturbulence in tokamak plasmas.
+My previous research was focused on the Synergistic Effect between Radial Electric Field $(E_r)$ and Magnetic Shear on Ion Temperature Gradient (ITG) turbulence, which based on the Experimental Advanced Superconducting Tokamak (EAST). 
+
+Recently, I am working with Prof. Guillaume Brochard at Aix Marseille Université about Gyrokinetic modelling of the nonlinear interaction between energetic particle-driven instabilities and microturbulence in tokamak plasmas.
 In the meantime, I am working on the Lost Region Identification in Fast Ion Phase Space and Self-Consistent $(E_r)$ in the W7-X Stellarator with Prof. Zhihong Lin.
 
+My work in modeling has motivated me to explore the experimental side of fusion research, particularly turbulence diagnostics and control. I believe that closely integrating simulation and experiment can make meaningful contributions to the development of fusion energy. Therefore, I hope to pursue experimental fusion research during my M2 internship and PhD, thereby broadening and deepening my knowledge and understanding of fusion plasma physics.
 
 
 {% raw %}
