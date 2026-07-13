@@ -215,13 +215,46 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.mobile-contact {
+  display: none;
+}
+
 @media (max-width: 575px) {
   .profile {
-    width: 70%;
-    max-width: 260px;
-    margin-left: auto;
-    margin-right: auto;
-    float: none !important;
+    width: 50%;
+    max-width: 220px;
+    margin: 0 0 0.75rem 1rem;
+  }
+
+  .profile.float-right {
+    float: right !important;
+  }
+
+  .profile.float-left {
+    float: left !important;
+    margin-right: 1rem;
+    margin-left: 0;
+  }
+
+  .profile .more-info {
+    display: none;
+  }
+
+  .mobile-contact {
+    display: block;
+    clear: both;
+    margin-top: 2rem;
+
+    .more-info {
+      font-family: monospace;
+      font-size: 0.95rem;
+      line-height: 1.5;
+
+      p {
+        display: block;
+        margin: 0 0 0.25rem;
+      }
+    }
   }
 }
 

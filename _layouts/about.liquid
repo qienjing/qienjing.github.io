@@ -76,5 +76,12 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
+    {% if page.profile.more_info %}
+      <section class="mobile-contact" aria-labelledby="mobile-contact-heading">
+        <h2 id="mobile-contact-heading">contact</h2>
+        <div class="more-info">{{ page.profile.more_info }}</div>
+      </section>
+    {% endif %}
   </article>
 </div>
