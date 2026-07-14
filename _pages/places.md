@@ -13,9 +13,13 @@ mobile_only: true
     <div class="place-heading">
       <h2>Hefei</h2>
     </div>
-    <div class="place-photo-grid place-photo-grid--single">
+    <div class="place-photo-grid">
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/ustc.jpg' | relative_url }}" alt="Hefei">
+        <img src="{{ '/assets/img/places/ustc-1.jpg' | relative_url }}" alt="Hefei">
+        <figcaption>Hefei</figcaption>
+      </figure>
+      <figure class="place-photo">
+        <img src="{{ '/assets/img/places/ustc-2.jpg' | relative_url }}" alt="Hefei">
         <figcaption>Hefei</figcaption>
       </figure>
     </div>

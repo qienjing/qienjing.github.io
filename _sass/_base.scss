@@ -219,8 +219,11 @@ ul.task-list input[type="checkbox"] {
   display: none;
 }
 
-.kai-name {
-  font-family: KaiTi, STKaiti, "楷体", "KaiTi_GB2312", serif;
+.kai-name,
+.post-title .kai-name,
+.clearfix .kai-name {
+  font-family: "Kaiti SC", KaiTi, STKaiti, "楷体", "KaiTi_GB2312", serif !important;
+  font-weight: 400;
 }
 
 @media (max-width: 575px) {
