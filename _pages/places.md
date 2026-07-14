@@ -15,11 +15,11 @@ mobile_only: true
     </div>
     <div class="place-photo-grid">
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/ustc-1.jpg' | relative_url }}" alt="Hefei">
+        <img src="{{ '/assets/img/places/ustc-1.jpeg' | relative_url }}" alt="Hefei">
         <figcaption>Hefei</figcaption>
       </figure>
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/ustc-2.jpg' | relative_url }}" alt="Hefei">
+        <img src="{{ '/assets/img/places/ustc-2.jpeg' | relative_url }}" alt="Hefei">
         <figcaption>Hefei</figcaption>
       </figure>
     </div>
@@ -31,11 +31,11 @@ mobile_only: true
     </div>
     <div class="place-photo-grid">
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/uci-1.jpg' | relative_url }}" alt="Irvine">
+        <img src="{{ '/assets/img/places/uci-1.jpeg' | relative_url }}" alt="Irvine">
         <figcaption>Irvine</figcaption>
       </figure>
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/uci-2.jpg' | relative_url }}" alt="Irvine">
+        <img src="{{ '/assets/img/places/uci-2.jpeg' | relative_url }}" alt="Irvine">
         <figcaption>Irvine</figcaption>
       </figure>
     </div>
@@ -51,7 +51,7 @@ mobile_only: true
         <figcaption>Palaiseau</figcaption>
       </figure>
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/ipp-2.jpg' | relative_url }}" alt="Palaiseau">
+        <img src="{{ '/assets/img/places/ipp-2.jpeg' | relative_url }}" alt="Palaiseau">
         <figcaption>Palaiseau</figcaption>
       </figure>
     </div>
@@ -63,11 +63,11 @@ mobile_only: true
     </div>
     <div class="place-photo-grid">
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/amu-1.jpg' | relative_url }}" alt="Marseille, Calanques de Sormiou">
+        <img src="{{ '/assets/img/places/amu-1.jpeg' | relative_url }}" alt="Marseille, Calanques de Sormiou">
         <figcaption>Marseille <span>Calanques de Sormiou</span></figcaption>
       </figure>
       <figure class="place-photo">
-        <img src="{{ '/assets/img/places/amu-2.jpg' | relative_url }}" alt="Marseille, Frioul Islands">
+        <img src="{{ '/assets/img/places/amu-2.jpeg' | relative_url }}" alt="Marseille, Frioul Islands">
         <figcaption>Marseille <span>Frioul Islands</span></figcaption>
       </figure>
     </div>
