@@ -31,7 +31,7 @@ latest_posts:
 
 **Welcome to my personal website!** Feel free to contact me if you would like to discuss research or simply have a chat. 
 
-I am Qien Jing (荆祺恩) and I got my Bachelor of Science degree from the **University of Science and Technology of China**, majoring in Applied Physics with a sub-major in Plasma Physics. I am currently pursuing a Master1 degree in Physics at **École Polytechnique**. 
+I am Qien Jing (<span class="kai-name">荆祺恩</span>) and I got my Bachelor of Science degree from the **University of Science and Technology of China**, majoring in Applied Physics with a sub-major in Plasma Physics. I am currently pursuing a Master1 degree in Physics at **École Polytechnique**. 
 
 Because of my strong interest in fusion energy, I decided to focus on the fusion simulation research. 
 I firmly believe that plasma simulations not only bridge experimental and theoretical research, but also integrate physics with advanced computational technology, allowing us to gain a more comprehensive perspective on research across the entire plasma physics field.
