@@ -76,6 +76,15 @@
   .nav-item.mobile-only-nav {
     display: block;
   }
+
+  .place-photo-grid {
+    grid-template-columns: 1fr;
+    gap: 1.1rem;
+  }
+
+  .place-photo img {
+    aspect-ratio: 4 / 3;
+  }
 }
 
 @media (min-width: 576px) {
