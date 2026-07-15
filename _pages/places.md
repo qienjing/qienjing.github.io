@@ -11,55 +11,55 @@ mobile_only: true
 <div class="mobile-places-gallery">
   <section class="place-block">
     <div class="place-heading">
-      <h2>Hefei</h2>
+      <h2>Hefei, China</h2>
     </div>
     <div class="place-photo-grid">
       <figure class="place-photo">
         <img src="{{ '/assets/img/places/ustc-1.jpg' | relative_url }}" alt="Hefei">
-        <figcaption>Hefei</figcaption>
+        <figcaption>ustc</figcaption>
       </figure>
       <figure class="place-photo">
         <img src="{{ '/assets/img/places/ustc-2.jpg' | relative_url }}" alt="Hefei">
-        <figcaption>Hefei</figcaption>
+        <figcaption>happy graduation</figcaption>
       </figure>
     </div>
   </section>
 
   <section class="place-block">
     <div class="place-heading">
-      <h2>Irvine</h2>
+      <h2>Irvine, United States</h2>
     </div>
     <div class="place-photo-grid">
       <figure class="place-photo">
         <img src="{{ '/assets/img/places/uci-1.jpg' | relative_url }}" alt="Irvine">
-        <figcaption>Irvine</figcaption>
+        <figcaption>uci</figcaption>
       </figure>
       <figure class="place-photo">
         <img src="{{ '/assets/img/places/uci-2.jpg' | relative_url }}" alt="Irvine">
-        <figcaption>Irvine</figcaption>
+        <figcaption>hallowmas</figcaption>
       </figure>
     </div>
   </section>
 
   <section class="place-block">
     <div class="place-heading">
-      <h2>Palaiseau</h2>
+      <h2>Palaiseau, France</h2>
     </div>
     <div class="place-photo-grid">
       <figure class="place-photo">
         <img src="{{ '/assets/img/places/ipp-1.jpg' | relative_url }}" alt="Palaiseau">
-        <figcaption>Palaiseau</figcaption>
+        <figcaption>Ecole polytechnique</figcaption>
       </figure>
       <figure class="place-photo">
         <img src="{{ '/assets/img/places/ipp-2.jpg' | relative_url }}" alt="Palaiseau">
-        <figcaption>Palaiseau</figcaption>
+        <figcaption>Tour Eiffel</figcaption>
       </figure>
     </div>
   </section>
 
   <section class="place-block">
     <div class="place-heading">
-      <h2>Marseille</h2>
+      <h2>Marseille, France</h2>
     </div>
     <div class="place-photo-grid">
       <figure class="place-photo">

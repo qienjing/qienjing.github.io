@@ -36,23 +36,22 @@
 
 .place-photo-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.75rem;
-}
-
-.place-photo-grid--single {
   grid-template-columns: 1fr;
+  justify-items: center;
+  gap: 1.25rem;
 }
 
 .place-photo {
+  width: 70%;
+  max-width: 680px;
   margin: 0;
 }
 
 .place-photo img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   border-radius: 4px;
   background: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
@@ -82,8 +81,8 @@
     gap: 1.1rem;
   }
 
-  .place-photo img {
-    aspect-ratio: 4 / 3;
+  .place-photo {
+    width: 70%;
   }
 }
 

@@ -38,10 +38,10 @@ I firmly believe that plasma simulations not only bridge experimental and theore
 
 My previous research was focused on the Synergistic Effect between Radial Electric Field $(E_r)$ and Magnetic Shear on Ion Temperature Gradient (ITG) turbulence, which based on the Experimental Advanced Superconducting Tokamak (EAST). 
 
-Recently, I am working with Prof. Guillaume Brochard at Aix Marseille Université about Gyrokinetic modelling of the nonlinear interaction between energetic particle-driven instabilities and microturbulence in tokamak plasmas.
+Recently, I am working with Prof. Guillaume Brochard at **Aix Marseille Université** about Gyrokinetic modelling of the nonlinear interaction between energetic particle-driven instabilities and microturbulence in tokamak plasmas.
 In the meantime, I am working on the Lost Region Identification in Fast Ion Phase Space and Self-Consistent $(E_r)$ in the W7-X Stellarator with Prof. Zhihong Lin.
 
-My work in modeling has motivated me to explore the experimental side of fusion research, particularly turbulence diagnostics and control. I believe that closely integrating simulation and experiment can make meaningful contributions to the development of fusion energy. Therefore, I hope to pursue experimental fusion research during my M2 internship and PhD, thereby broadening and deepening my knowledge and understanding of fusion plasma physics.
+My work in modeling has motivated me to explore the **experimental** side of fusion research, particularly **turbulence diagnostics and control**. I believe that closely integrating simulation and experiment can make meaningful contributions to the development of fusion energy. Therefore, I hope to pursue experimental fusion research during my M2 internship and PhD, thereby broadening and deepening my knowledge and understanding of fusion plasma physics.
 
 
 {% raw %}
